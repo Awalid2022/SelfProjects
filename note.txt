@@ -1,0 +1,17 @@
+# inorder to peform git commands:
+
+#first clone the repo by : git clone "Git hub repo link"
+
+# Once clone, make sure the you configured the settings by using 
+    # git config --global.user.name "Git hub username"
+    # git config --global.user.email "Git hub account Email"
+
+# If everything is okay:
+    # 1. git pull  , to retrieve latest version from the repo.
+    # 2. git status , show status of the repo for any commits.
+    # Once created a file and ready to move to the repo:
+    
+        # git add . , to add the new file into the repo
+        # git commit -m "commit message you write"
+        # git status
+        # git push origin main
