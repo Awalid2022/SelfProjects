@@ -15,3 +15,6 @@
         # git commit -m "commit message you write"
         # git status
         # git push origin main
+
+
+# you can delte the git repo easily by going to the path and delete the file.
